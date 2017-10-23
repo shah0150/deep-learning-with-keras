@@ -84,22 +84,3 @@ model.fit(X_train, Y_train,
 # Evaluate keras model
 score = model.evaluate(X_test, Y_test, verbose=0)
 print(score)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
